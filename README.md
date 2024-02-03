@@ -18,7 +18,9 @@ git clone https://github.com/beholder91/Non-Negative-Matrix-Factorization.git
 
 Unzip the zip file in the data folder.
 
-Open and run the Jupyter Notebook, and reset the path to your own.
+Open and run the Jupyter Notebook in the code folder, and reset the path to your own.
+
+If you need in-depth instruction on theories, please step into the paper folder.
 
 ### Authors
 * **Pengwei Yang** -*Main contributor*-
