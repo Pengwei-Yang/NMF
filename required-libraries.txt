@@ -1,8 +1,0 @@
-time
-matplotlib
-os
-numpy
-PIL
-collections
-sklearn
-pandas
