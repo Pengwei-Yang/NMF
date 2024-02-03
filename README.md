@@ -12,7 +12,7 @@ Please open an issue if there is any problem.
 
 **Clone the Project:**
 ```
-git clone https://github.com/beholder91/Non-Negative-Matrix-Factorization.git
+git clone https://github.com/Pengwei-Yang/NMF.git
 ```
 ### Instructions
 
