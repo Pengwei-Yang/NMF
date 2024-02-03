@@ -6,7 +6,7 @@ This project aims to design and implement various innovative Non-negative Matrix
 ### Prerequisites
 Python 3.x version
 
-Check required-libraries.txt for all the packages that need to be installed.
+Check required-libraries.txt in the code folder for all the packages that need to be installed.
 
 Please open an issue if there is any problem.
 
